@@ -35,13 +35,24 @@ customer_churn_prediction/
 └── README.md # Project overview
 
 
+### 📈 Sample Output
+
+<img width="540" height="250" alt="image" src="https://github.com/user-attachments/assets/6024c942-1fdf-42e2-881a-ae611735fe55" />
+
+### 📌 Future Improvements
+
+- Try XGBoost or Gradient Boosting for better accuracy
+- Add hyperparameter tuning using GridSearchCV
+- Deploy model using Flask + Streamlit or FastAPI
+- Explain predictions using SHAP
+
 ---
 
 ## 🚀 Getting Started
 
 ### 🛠️ Clone & Setup
 
-**``bash**
+```bash
 # Clone the repository
 git clone https://github.com/Mitsu007/customer_churn_prediction.git
 cd customer_churn_prediction
@@ -63,20 +74,7 @@ pip install -r requirements.txt
 # Run the project
 python churn_model.py
 
-**``bash**
-
-### 📈 Sample Output
-
-<img width="540" height="250" alt="image" src="https://github.com/user-attachments/assets/6024c942-1fdf-42e2-881a-ae611735fe55" />
-
-### 📌 Future Improvements
-
-- Try XGBoost or Gradient Boosting for better accuracy
-- Add hyperparameter tuning using GridSearchCV
-- Deploy model using Flask + Streamlit or FastAPI
-- Explain predictions using SHAP
-
-👨‍💻 Built by [Mitesh S.](https://github.com/Mitsu007) – Aspiring AI/Data Science Master's student | Passionate about ML, data storytelling, and AI systems.
+##👨‍💻 Built by [Mitesh S.](https://github.com/Mitsu007) – Aspiring AI/Data Science Master's student | Passionate about ML, data storytelling, and AI systems.
 
 
 
