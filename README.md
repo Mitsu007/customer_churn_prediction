@@ -18,8 +18,11 @@ A machine learning project that predicts whether a customer is likely to churn b
 git clone https://github.com/Mitsu007/customer_churn_prediction
 cd customer_churn_prediction
 
-# Activate virtual environment
-venv\Scripts\activate  # On Windows
+# Install and Activate virtual environment
+# On Windows
+pip install virtualenv
+python -m venv <any name for env file>
+venv\Scripts\activate  
 
 # Install dependencies
 pip install -r requirements.txt
