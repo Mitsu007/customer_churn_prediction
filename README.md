@@ -15,8 +15,8 @@ A machine learning project that predicts whether a customer is likely to churn b
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/customer-churn-prediction
-cd customer-churn-prediction
+git clone https://github.com/Mitsu007/customer_churn_prediction
+cd customer_churn_prediction
 
 # Activate virtual environment
 venv\Scripts\activate  # On Windows
