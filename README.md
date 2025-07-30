@@ -46,6 +46,7 @@ customer_churn_prediction/
 - Deploy model using Flask + Streamlit or FastAPI
 - Explain predictions using SHAP
 
+####👨‍💻 Built by [Mitesh S.](https://github.com/Mitsu007) – Aspiring AI/Data Science Master's student | Passionate about ML, data storytelling, and AI systems.
 ---
 
 ## 🚀 Getting Started
@@ -74,7 +75,7 @@ pip install -r requirements.txt
 # Run the project
 python churn_model.py
 
-##👨‍💻 Built by [Mitesh S.](https://github.com/Mitsu007) – Aspiring AI/Data Science Master's student | Passionate about ML, data storytelling, and AI systems.
+
 
 
 
